@@ -1,2 +1,2 @@
 # games-repo
-# click on Game.java in order to open and play the PLYR game center which includes two redesigned games (Brick Breaker, Escape the Enemy) programmed using Java code, Java’s swing library, and tutorials from online game creators 
+# Hi! To open my game center and play the games please download the whole package of files and set it as a directory preferably using eclipse. Then click on Game.java in order to open and play the PLYR game center which includes two redesigned games (Brick Breaker, Escape the Enemy) programmed using Java code, Java’s swing library, and tutorials from online game creators. Hope you enjoy it! -Ameer
